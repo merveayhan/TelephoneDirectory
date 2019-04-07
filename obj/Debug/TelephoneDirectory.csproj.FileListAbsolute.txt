@@ -1,0 +1,33 @@
+C:\Users\user\Source\Repos\TelephoneDirectory\TelephoneDirectory\bin\Debug\TelephoneDirectory.exe.config
+C:\Users\user\Source\Repos\TelephoneDirectory\TelephoneDirectory\bin\Debug\TelephoneDirectory.exe
+C:\Users\user\Source\Repos\TelephoneDirectory\TelephoneDirectory\bin\Debug\TelephoneDirectory.pdb
+C:\Users\user\Source\Repos\TelephoneDirectory\TelephoneDirectory\bin\Debug\EntityFramework.dll
+C:\Users\user\Source\Repos\TelephoneDirectory\TelephoneDirectory\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Source\Repos\TelephoneDirectory\TelephoneDirectory\bin\Debug\EntityFramework.xml
+C:\Users\user\Source\Repos\TelephoneDirectory\TelephoneDirectory\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Source\Repos\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.Form1.resources
+C:\Users\user\Source\Repos\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.Properties.Resources.resources
+C:\Users\user\Source\Repos\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.csproj.CopyComplete
+C:\Users\user\Source\Repos\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.exe
+C:\Users\user\Source\Repos\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.pdb
+C:\Users\user\Desktop\22 Mart Cuma\TelephoneDirectory\TelephoneDirectory\bin\Debug\TelephoneDirectory.exe.config
+C:\Users\user\Desktop\22 Mart Cuma\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.exe
+C:\Users\user\Desktop\22 Mart Cuma\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.pdb
+C:\Users\user\Desktop\Smartpro çalışmalarım\22 Mart Cuma\TelephoneDirectory\TelephoneDirectory\bin\Debug\TelephoneDirectory.exe.config
+C:\Users\user\Desktop\Smartpro çalışmalarım\22 Mart Cuma\TelephoneDirectory\TelephoneDirectory\bin\Debug\TelephoneDirectory.exe
+C:\Users\user\Desktop\Smartpro çalışmalarım\22 Mart Cuma\TelephoneDirectory\TelephoneDirectory\bin\Debug\TelephoneDirectory.pdb
+C:\Users\user\Desktop\Smartpro çalışmalarım\22 Mart Cuma\TelephoneDirectory\TelephoneDirectory\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Smartpro çalışmalarım\22 Mart Cuma\TelephoneDirectory\TelephoneDirectory\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Smartpro çalışmalarım\22 Mart Cuma\TelephoneDirectory\TelephoneDirectory\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Smartpro çalışmalarım\22 Mart Cuma\TelephoneDirectory\TelephoneDirectory\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Smartpro çalışmalarım\22 Mart Cuma\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Smartpro çalışmalarım\22 Mart Cuma\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.Form1.resources
+C:\Users\user\Desktop\Smartpro çalışmalarım\22 Mart Cuma\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.Properties.Resources.resources
+C:\Users\user\Desktop\Smartpro çalışmalarım\22 Mart Cuma\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Smartpro çalışmalarım\22 Mart Cuma\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Smartpro çalışmalarım\22 Mart Cuma\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.csproj.CopyComplete
+C:\Users\user\Desktop\Smartpro çalışmalarım\22 Mart Cuma\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.exe
+C:\Users\user\Desktop\Smartpro çalışmalarım\22 Mart Cuma\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.pdb
