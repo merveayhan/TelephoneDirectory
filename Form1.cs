@@ -135,7 +135,6 @@ namespace TelephoneDirectory
         private void btnFullName_Click(object sender, EventArgs e)
         {
             UserFind();
-           
         }
     }
 }
